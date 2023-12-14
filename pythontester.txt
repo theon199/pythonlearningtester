@@ -1,1 +1,4 @@
-print("hello")
+normal = 5
+n_normal = complex(normal)
+print(n_normal)
+print("python is valid")
